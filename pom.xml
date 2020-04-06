@@ -6,6 +6,7 @@
     <groupId>com.example.gulimall</groupId>
     <artifactId>gulimall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
     <name>gulimall</name>
     <description>聚合服务</description>
     <packaging>pom</packaging>
@@ -14,8 +15,11 @@
         <module>gulimall-coupon</module>
         <module>gulimall-member</module>
         <module>gulimall-order</module>
-        <module>gulimall-project</module>
+        <module>gulimall-product</module>
         <module>gulimall-ware</module>
+        <module>renren-generator</module>
+        <module>gulimall-common</module>
+        <module>renren-fast</module>
     </modules>
 
 </project>
